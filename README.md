@@ -14,3 +14,5 @@ the effectiveness of these models for sentiment
 analysis of historical journals, and potentially
 help inform decisions about which model to
 use in similar applications.
+
+A detailed Report in included in the Repo.
